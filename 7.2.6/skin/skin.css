@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@font-face {
+@fhttps://code.jquery.com/jquery-1.12.4.min.jsont-face {
   font-family: flowplayer;
   src: url("icons/flowplayer.eot?#iefix") format("embedded-opentype"), url("icons/flowplayer.woff2") format("woff2"), url("icons/flowplayer.woff") format("woff"); }
 
@@ -592,13 +592,13 @@
     border-radius: .2em;
     border: 0;
     min-height: 60%; }
-  .flowplayer .fp-logo {
+  .flowplayer .fp-f {
   display: block;
   opacity: 1; }
     .flowplayer .fp-logo img {
       width: 100%; }
   .flowplayer .fp-captions {
-    bottom: 1.2em;
+    bottom: 0em;
     display: none;
     text-align: center;
     color: #fff; }
