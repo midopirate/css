@@ -1,0 +1,110 @@
+.conRitin, .headlines-container.gridallbody, .voting.clearfix {
+    float: right;
+    width: 100%;
+}
+.TitleHead.kotab, .mainpage, .voting.clearfix {
+    background-color: #cc0001;
+}
+.lftSlidre div {
+    margin-bottom: 0;
+}
+.lftSlidre div {
+    margin-bottom: 24px;
+}
+.voting {
+    background-color: #faf7ef;
+    padding-bottom: 21px;
+    padding-right: 16px;
+    padding-top: 0;
+    height: 230px;
+}
+.voting {
+    padding-bottom: 21px;
+    padding-right: 16px;
+    padding-top: 27px;
+    height: 328px;
+}
+.arabGalleryBg, .outerDiv, .videos, .voting {
+    background-color: #faf7ef;
+}
+*, :after, :before, input[type=search] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+ul li {
+    cursor: pointer;
+}
+ul li {
+    text-align: right;
+    list-style: none;
+}
+ul li {
+    text-align: right;
+}
+.arabg, .headlinesUl, .slider1Div ul, ul li {
+    list-style: none;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul {
+    list-style: none;
+}
+user agent stylesheet
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+body {
+    font-family: helvetica-reg;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: transparent;
+}
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    content: " ";
+    display: table;
+}
+*, :after, :before, input[type=search] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.btn-group-vertical>.btn-group:after, .btn-toolbar:after, .clearfix:after, .container-fluid:after, .container:after, .form-horizontal .form-group:after, .modal-footer:after, .nav:after, .navbar-collapse:after, .navbar-header:after, .navbar:after, .pager:after, .panel-body:after, .row:after {
+    clear: both;
+}
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    content: " ";
+    display: table;
+}
+*, :after, :before, input[type=search] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
